@@ -1,2 +1,1 @@
-
-include "headless-test-api", "headless-test-impl"
+include "rest"

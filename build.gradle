@@ -22,8 +22,6 @@ allprojects {
     }
 
     liferay {
-        deployDir = "/Users/javiergamarra/dev/portal/bundles/deploy"
+        deployDir = "/Users/liyiping/IdeaProjects/fist-liferay/bundles/deploy"
     }
 }
-
-
